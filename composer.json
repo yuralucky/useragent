@@ -1,0 +1,9 @@
+{
+  "name": "yuraodessa/useragent",
+  "autoload": {
+    "psr-4": {
+      "Yuriy\\UserAgent\\": "./src"
+    }
+  }
+
+}
